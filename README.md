@@ -80,13 +80,13 @@ The following packages are optional:
  https://gramps-project.org/wiki/index.php?title=Gramps_4.2_Wiki_Manual_-_Manage_Family_Trees#Archiving_a_Family_Tree
  Only rcs is needed, NO python bindings are required
 
-* **PIL**
+* **pillow**
 
  Python Image Library is needed to crop
  images and also to convert non-JPG images to
  JPG so as to include them in LaTeX output.
  (For Python3 a different source may be needed,
- python-imaging or python-pillow or python3-pillow)
+ python-pillow, python3-pillow or python-imaging)
 
 * **GExiv2**
 
