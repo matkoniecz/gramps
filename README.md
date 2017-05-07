@@ -105,7 +105,7 @@ For more information about Addons see:  https://gramps-project.org/wiki/index.ph
 
 Prerequistes required for the following Addons to work:
 
-* **Family Sheet** - Requires: PIL (Python Imaging Library) or PILLOW.
+* **Family Sheet** - Requires: Pillow the friendly Python Image Library.
 ( https://gramps-project.org/wiki/index.php?title=Family_Sheet )
 
 * **Graph View** - Requires: PyGoocanvas and Goocanvas.
